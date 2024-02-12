@@ -1,3 +1,7 @@
+# Documentation Reference
+
+This project relies on NICE CXone's MAX Agent Console [MAX POST Message Integration](https://help.nice-incontact.com/content/agent/agentapplicationadministration/max/maxpostmessageintegration.htm).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
